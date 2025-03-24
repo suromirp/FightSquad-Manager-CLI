@@ -1,6 +1,6 @@
 ## 📄 Project Description
 
-**FightSquad - CLI** is a command-line application developed as part of my HBO C# Backend Developer education.
+FightSquad - CLI is a command-line application developed as part of my C# Backend Developer education.
 
 This project builds upon a previous assignment, where basic object structures were hardcoded to demonstrate functionality. In this extended version, the user can create, modify, and delete teams and fighters interactively through a command-line interface.
 
@@ -8,7 +8,7 @@ The goal of the assignment was to replace hardcoded data with dynamic user input
 
 Additionally, the application includes a SQL database integration, allowing data to be persisted across sessions. This enables users to retain teams and fighters even after closing the application.
 
-## 🧠 Features
+## ✨ Features
 
 - Create and manage MMA-style teams  
 - Add fighters with win/loss statistics  
